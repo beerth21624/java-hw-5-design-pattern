@@ -1,3 +1,5 @@
+//6510405822 Sarawut Inpol
+
 import java.util.Random;
 
 interface State {
@@ -313,3 +315,4 @@ class FlavorChoiceState implements State {
         System.out.println("You have chosen the flavor " + flavor);
     }
 }
+//6510405822 Sarawut Inpol

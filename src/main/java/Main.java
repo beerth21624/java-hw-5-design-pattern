@@ -1,4 +1,6 @@
- class Main {
+//6510405822 Sarawut Inpol
+
+class Main {
     public static void main(String[] args) {
         GumballMachine gumballMachine = new GumballMachine(5);
 
@@ -16,3 +18,4 @@
     }
 
 }
+//6510405822 Sarawut Inpol
